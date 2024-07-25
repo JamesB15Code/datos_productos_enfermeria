@@ -1,0 +1,501 @@
+IDProducto,CategoriaProducto,MarcaProducto,PrecioProducto,EdadCliente,GeneroCliente,OcupacionCliente,FrecuenciaCompra,SatisfaccionCliente,IntencionCompra
+1,Suministros,Littmann,343.2,23,Hombre,Enfermero,6,1,Si
+2,Uniformes,Littmann,367.85,32,Mujer,Asistente,3,2,No
+3,Suministros,Medline,566.88,19,Mujer,Asistente,7,3,Si
+4,Suministros,Littmann,703.93,46,Mujer,Asistente,12,1,No
+5,Uniformes,Cherokee,408.1,20,Hombre,Medico,7,1,No
+6,Uniformes,Greys Anatomy,544.15,49,Hombre,Estudiante,6,5,No
+7,Suministros,Greys Anatomy,591.49,34,Hombre,Medico,8,1,No
+8,Equipos Medicos,Dickies,475.97,42,Hombre,Estudiante,12,1,Si
+9,Suministros,Littmann,606.89,41,Hombre,Enfermero,6,1,Si
+10,Suministros,Cherokee,699.83,29,Mujer,Asistente,9,5,Si
+11,Suministros,Dickies,562.05,35,Mujer,Estudiante,9,3,No
+12,Suministros,Medline,519.89,32,Mujer,Medico,4,3,No
+13,Uniformes,Dickies,469.37,29,Mujer,Asistente,5,1,No
+14,Suministros,Dickies,538.74,33,Mujer,Enfermero,3,5,No
+15,Equipos Medicos,Littmann,427.68,44,Mujer,Estudiante,10,3,No
+16,Uniformes,Medline,445.74,25,Mujer,Estudiante,11,3,Si
+17,Equipos Medicos,Dickies,515.93,45,Hombre,Estudiante,6,3,No
+18,Equipos Medicos,Cherokee,283.31,31,Hombre,Asistente,8,5,Si
+19,Equipos Medicos,Cherokee,364.51,42,Hombre,Medico,11,5,No
+20,Equipos Medicos,Greys Anatomy,521.42,34,Hombre,Medico,8,1,No
+21,Uniformes,Medline,465.76,46,Mujer,Estudiante,14,4,Si
+22,Uniformes,Medline,416.41,38,Mujer,Enfermero,14,3,Si
+23,Equipos Medicos,Greys Anatomy,615.27,25,Mujer,Enfermero,14,4,No
+24,Equipos Medicos,Dickies,596.86,32,Mujer,Medico,11,5,No
+25,Uniformes,Medline,333.37,44,Mujer,Enfermero,6,5,No
+26,Uniformes,Cherokee,689.31,31,Mujer,Medico,10,5,No
+27,Uniformes,Cherokee,497.71,35,Mujer,Estudiante,11,4,Si
+28,Suministros,Littmann,620.73,37,Mujer,Medico,6,5,No
+29,Suministros,Medline,536.58,24,Mujer,Medico,7,1,Si
+30,Suministros,Dickies,748.85,20,Mujer,Estudiante,10,5,No
+31,Equipos Medicos,Greys Anatomy,626.2,46,Mujer,Enfermero,14,2,Si
+32,Suministros,Greys Anatomy,603.49,49,Mujer,Medico,12,4,Si
+33,Equipos Medicos,Dickies,639.29,29,Mujer,Medico,8,2,No
+34,Equipos Medicos,Littmann,321.56,38,Mujer,Estudiante,14,5,Si
+35,Suministros,Greys Anatomy,352.27,41,Hombre,Enfermero,9,1,No
+36,Equipos Medicos,Medline,607.03,45,Hombre,Medico,5,3,Si
+37,Suministros,Littmann,496.99,43,Hombre,Estudiante,9,5,No
+38,Suministros,Medline,627.32,20,Mujer,Medico,14,1,Si
+39,Uniformes,Cherokee,301.46,37,Mujer,Asistente,10,4,No
+40,Suministros,Littmann,518.24,31,Mujer,Estudiante,12,2,No
+41,Uniformes,Greys Anatomy,439.41,32,Mujer,Enfermero,8,2,Si
+42,Suministros,Littmann,478.5,42,Mujer,Enfermero,12,2,Si
+43,Suministros,Littmann,551.98,47,Mujer,Enfermero,11,4,Si
+44,Uniformes,Littmann,501.14,31,Hombre,Enfermero,8,1,Si
+45,Uniformes,Littmann,519.93,24,Hombre,Medico,14,4,No
+46,Suministros,Medline,493.18,34,Mujer,Medico,11,2,Si
+47,Equipos Medicos,Cherokee,454.48,47,Hombre,Enfermero,6,5,No
+48,Uniformes,Dickies,635.94,29,Mujer,Enfermero,10,3,Si
+49,Equipos Medicos,Littmann,256.1,37,Hombre,Enfermero,13,4,No
+50,Equipos Medicos,Greys Anatomy,549.22,21,Mujer,Medico,6,4,No
+51,Equipos Medicos,Littmann,532.75,26,Mujer,Enfermero,4,1,No
+52,Uniformes,Greys Anatomy,608.09,23,Hombre,Enfermero,12,1,No
+53,Equipos Medicos,Medline,549.51,33,Hombre,Asistente,13,4,Si
+54,Uniformes,Greys Anatomy,663.4,42,Mujer,Asistente,11,2,Si
+55,Equipos Medicos,Dickies,729.54,45,Mujer,Enfermero,7,3,No
+56,Suministros,Cherokee,421.26,48,Hombre,Estudiante,6,1,Si
+57,Suministros,Greys Anatomy,363.68,39,Hombre,Enfermero,4,2,Si
+58,Uniformes,Greys Anatomy,461.8,39,Mujer,Asistente,3,5,No
+59,Suministros,Cherokee,393.96,38,Hombre,Estudiante,13,1,Si
+60,Suministros,Dickies,557.48,38,Mujer,Estudiante,9,2,Si
+61,Equipos Medicos,Littmann,705.93,19,Mujer,Enfermero,8,2,Si
+62,Uniformes,Greys Anatomy,319.56,41,Mujer,Asistente,4,3,No
+63,Equipos Medicos,Cherokee,300.4,25,Mujer,Asistente,10,3,Si
+64,Equipos Medicos,Medline,378.01,28,Hombre,Estudiante,13,5,No
+65,Equipos Medicos,Cherokee,613.05,49,Hombre,Enfermero,6,2,Si
+66,Equipos Medicos,Medline,546.48,30,Hombre,Medico,10,2,Si
+67,Equipos Medicos,Dickies,301.11,34,Hombre,Medico,9,3,Si
+68,Equipos Medicos,Littmann,709.38,25,Hombre,Asistente,7,1,No
+69,Equipos Medicos,Cherokee,645.04,38,Hombre,Medico,12,1,No
+70,Uniformes,Greys Anatomy,261.51,35,Hombre,Asistente,12,4,Si
+71,Suministros,Dickies,575.68,47,Mujer,Asistente,14,3,No
+72,Equipos Medicos,Cherokee,635.62,49,Hombre,Asistente,10,4,Si
+73,Equipos Medicos,Greys Anatomy,437.22,35,Hombre,Medico,11,3,No
+74,Equipos Medicos,Cherokee,284.46,31,Mujer,Asistente,7,5,No
+75,Equipos Medicos,Medline,288.66,32,Hombre,Estudiante,12,2,Si
+76,Equipos Medicos,Cherokee,302.12,48,Hombre,Enfermero,7,5,Si
+77,Equipos Medicos,Cherokee,670.22,23,Mujer,Enfermero,4,3,Si
+78,Suministros,Cherokee,705.34,49,Hombre,Asistente,7,2,Si
+79,Suministros,Dickies,311.41,28,Hombre,Enfermero,5,1,No
+80,Equipos Medicos,Cherokee,367.95,30,Hombre,Medico,9,1,No
+81,Suministros,Greys Anatomy,332.76,42,Mujer,Medico,12,4,No
+82,Uniformes,Medline,343.16,18,Hombre,Enfermero,7,3,Si
+83,Equipos Medicos,Medline,668.75,45,Hombre,Medico,10,3,Si
+84,Uniformes,Cherokee,416.07,23,Mujer,Enfermero,3,1,No
+85,Uniformes,Dickies,405.72,26,Hombre,Enfermero,5,5,Si
+86,Equipos Medicos,Dickies,363.7,25,Mujer,Enfermero,5,2,No
+87,Suministros,Greys Anatomy,553.95,28,Mujer,Asistente,11,5,No
+88,Uniformes,Cherokee,439.65,39,Hombre,Enfermero,7,5,No
+89,Equipos Medicos,Medline,622.12,36,Mujer,Asistente,14,1,No
+90,Uniformes,Dickies,352.79,41,Mujer,Enfermero,11,1,No
+91,Uniformes,Cherokee,643.89,26,Hombre,Enfermero,11,1,Si
+92,Uniformes,Dickies,551.86,34,Mujer,Enfermero,3,4,Si
+93,Uniformes,Dickies,307.13,29,Mujer,Medico,4,5,Si
+94,Suministros,Medline,457.25,42,Hombre,Asistente,7,3,No
+95,Uniformes,Littmann,681.76,31,Hombre,Asistente,6,2,No
+96,Uniformes,Greys Anatomy,711.48,49,Hombre,Enfermero,12,4,No
+97,Uniformes,Greys Anatomy,482.85,32,Mujer,Enfermero,11,3,No
+98,Suministros,Medline,490.42,33,Hombre,Medico,9,5,Si
+99,Uniformes,Dickies,709.23,39,Mujer,Medico,8,1,Si
+100,Uniformes,Cherokee,543.53,39,Mujer,Medico,9,5,No
+101,Suministros,Dickies,266.42,45,Mujer,Asistente,3,2,No
+102,Suministros,Medline,706.37,37,Mujer,Asistente,3,4,No
+103,Suministros,Greys Anatomy,374.11,18,Mujer,Asistente,10,4,Si
+104,Uniformes,Dickies,538.82,27,Mujer,Enfermero,4,2,Si
+105,Suministros,Greys Anatomy,332.76,25,Mujer,Asistente,14,3,Si
+106,Suministros,Cherokee,266.94,49,Hombre,Estudiante,12,3,No
+107,Uniformes,Greys Anatomy,405.74,35,Hombre,Estudiante,13,4,No
+108,Suministros,Greys Anatomy,640.25,45,Mujer,Medico,11,4,Si
+109,Uniformes,Littmann,388.79,18,Mujer,Asistente,9,1,No
+110,Equipos Medicos,Littmann,360.05,19,Hombre,Estudiante,8,3,Si
+111,Suministros,Littmann,356.34,18,Mujer,Medico,3,2,No
+112,Equipos Medicos,Greys Anatomy,507.59,18,Hombre,Asistente,3,3,Si
+113,Uniformes,Medline,737.77,26,Hombre,Enfermero,4,1,No
+114,Suministros,Greys Anatomy,479.49,30,Hombre,Estudiante,8,4,Si
+115,Uniformes,Medline,528.65,47,Mujer,Enfermero,8,4,Si
+116,Equipos Medicos,Medline,680.32,18,Mujer,Asistente,4,1,Si
+117,Uniformes,Littmann,517.53,30,Hombre,Estudiante,3,2,Si
+118,Suministros,Dickies,342.23,37,Hombre,Asistente,12,4,Si
+119,Suministros,Cherokee,399.8,43,Hombre,Enfermero,7,5,Si
+120,Equipos Medicos,Littmann,404.97,39,Hombre,Estudiante,7,4,No
+121,Uniformes,Littmann,448.66,24,Hombre,Enfermero,4,5,No
+122,Suministros,Dickies,463.39,19,Mujer,Asistente,8,1,No
+123,Equipos Medicos,Cherokee,649.89,23,Hombre,Asistente,11,1,Si
+124,Suministros,Greys Anatomy,424.69,24,Mujer,Enfermero,4,4,Si
+125,Suministros,Greys Anatomy,484.12,43,Hombre,Estudiante,12,3,No
+126,Uniformes,Littmann,562.49,31,Mujer,Enfermero,4,5,Si
+127,Suministros,Cherokee,438.86,43,Mujer,Asistente,5,2,Si
+128,Uniformes,Littmann,668.28,35,Mujer,Enfermero,9,4,Si
+129,Suministros,Medline,543.73,32,Mujer,Asistente,8,2,Si
+130,Equipos Medicos,Littmann,397.02,19,Mujer,Enfermero,14,4,Si
+131,Suministros,Littmann,607.03,27,Mujer,Estudiante,10,3,No
+132,Uniformes,Greys Anatomy,513.82,40,Hombre,Estudiante,10,3,No
+133,Uniformes,Greys Anatomy,517.23,29,Mujer,Enfermero,8,3,No
+134,Equipos Medicos,Greys Anatomy,490.54,34,Hombre,Enfermero,14,3,No
+135,Suministros,Medline,498.51,25,Mujer,Estudiante,13,1,No
+136,Suministros,Greys Anatomy,632.68,28,Mujer,Asistente,12,1,Si
+137,Equipos Medicos,Cherokee,301.49,46,Hombre,Estudiante,5,5,Si
+138,Suministros,Dickies,417.18,20,Mujer,Asistente,5,2,Si
+139,Suministros,Cherokee,287.75,44,Hombre,Enfermero,3,4,Si
+140,Uniformes,Cherokee,626.62,23,Hombre,Enfermero,9,4,No
+141,Suministros,Greys Anatomy,386.15,26,Hombre,Asistente,7,1,No
+142,Suministros,Dickies,698.72,23,Hombre,Enfermero,6,4,No
+143,Equipos Medicos,Dickies,513.29,26,Mujer,Asistente,12,1,Si
+144,Equipos Medicos,Dickies,650.37,24,Mujer,Medico,6,5,No
+145,Uniformes,Medline,739.47,48,Hombre,Estudiante,6,2,Si
+146,Suministros,Greys Anatomy,669.89,49,Mujer,Medico,8,5,No
+147,Suministros,Dickies,683.5,26,Mujer,Asistente,10,3,No
+148,Suministros,Medline,453.99,35,Hombre,Estudiante,10,3,Si
+149,Uniformes,Littmann,525.86,29,Mujer,Asistente,7,3,Si
+150,Uniformes,Littmann,376.94,25,Hombre,Estudiante,8,5,No
+151,Equipos Medicos,Medline,348.06,25,Hombre,Estudiante,6,4,No
+152,Uniformes,Medline,502.75,35,Mujer,Estudiante,14,2,Si
+153,Suministros,Greys Anatomy,547.52,45,Mujer,Estudiante,13,3,No
+154,Suministros,Greys Anatomy,419.64,47,Mujer,Asistente,11,3,No
+155,Uniformes,Littmann,534.72,37,Hombre,Estudiante,10,3,Si
+156,Suministros,Dickies,693.73,47,Hombre,Estudiante,12,2,No
+157,Suministros,Littmann,528.36,32,Mujer,Medico,14,3,Si
+158,Uniformes,Dickies,610.41,44,Mujer,Enfermero,12,2,No
+159,Uniformes,Dickies,652.66,48,Mujer,Enfermero,3,3,Si
+160,Suministros,Greys Anatomy,744.36,24,Mujer,Medico,4,5,No
+161,Suministros,Cherokee,551.6,28,Hombre,Medico,11,5,Si
+162,Suministros,Cherokee,653.43,37,Mujer,Asistente,10,2,No
+163,Equipos Medicos,Medline,731.32,33,Hombre,Asistente,5,5,Si
+164,Equipos Medicos,Greys Anatomy,722.2,21,Hombre,Asistente,10,2,No
+165,Equipos Medicos,Dickies,320.54,23,Mujer,Medico,14,5,No
+166,Uniformes,Cherokee,453.2,43,Mujer,Medico,3,5,No
+167,Equipos Medicos,Dickies,412,39,Mujer,Estudiante,12,2,No
+168,Uniformes,Cherokee,293.46,43,Hombre,Asistente,6,4,No
+169,Uniformes,Cherokee,566.62,48,Mujer,Asistente,5,5,No
+170,Equipos Medicos,Cherokee,617.95,20,Mujer,Asistente,8,3,No
+171,Equipos Medicos,Greys Anatomy,674.06,48,Hombre,Enfermero,9,4,No
+172,Equipos Medicos,Littmann,311.39,26,Mujer,Estudiante,6,2,No
+173,Suministros,Dickies,688.22,45,Hombre,Asistente,9,4,Si
+174,Equipos Medicos,Greys Anatomy,571.46,27,Mujer,Asistente,11,1,Si
+175,Suministros,Greys Anatomy,601.97,31,Hombre,Asistente,13,1,No
+176,Uniformes,Greys Anatomy,705.31,28,Mujer,Enfermero,4,5,Si
+177,Suministros,Greys Anatomy,562.38,35,Mujer,Enfermero,13,5,No
+178,Equipos Medicos,Greys Anatomy,417.93,39,Hombre,Medico,5,3,No
+179,Uniformes,Medline,662.55,29,Hombre,Estudiante,7,4,Si
+180,Uniformes,Dickies,431.53,40,Mujer,Medico,5,1,No
+181,Uniformes,Greys Anatomy,267.11,29,Hombre,Estudiante,13,5,No
+182,Suministros,Dickies,665.33,30,Hombre,Enfermero,10,4,Si
+183,Equipos Medicos,Medline,422.6,42,Hombre,Asistente,14,5,Si
+184,Uniformes,Medline,636.92,30,Hombre,Medico,12,5,No
+185,Uniformes,Dickies,431.38,36,Mujer,Asistente,10,1,Si
+186,Uniformes,Cherokee,680.53,43,Mujer,Medico,10,1,Si
+187,Suministros,Littmann,359.76,36,Hombre,Enfermero,14,5,No
+188,Suministros,Cherokee,737.27,40,Hombre,Enfermero,14,2,Si
+189,Equipos Medicos,Cherokee,639.88,31,Hombre,Enfermero,11,5,Si
+190,Suministros,Cherokee,307.12,21,Hombre,Medico,6,5,No
+191,Uniformes,Greys Anatomy,532.89,30,Mujer,Estudiante,7,3,Si
+192,Equipos Medicos,Medline,742.68,25,Mujer,Medico,7,3,Si
+193,Uniformes,Cherokee,485.53,46,Hombre,Estudiante,10,3,No
+194,Uniformes,Medline,341.05,40,Hombre,Medico,9,2,No
+195,Suministros,Dickies,492.39,38,Hombre,Medico,11,2,No
+196,Equipos Medicos,Littmann,506.23,40,Mujer,Enfermero,10,5,Si
+197,Suministros,Dickies,620.84,49,Hombre,Asistente,4,3,No
+198,Suministros,Dickies,599.42,36,Mujer,Asistente,12,2,No
+199,Equipos Medicos,Greys Anatomy,451.28,29,Hombre,Estudiante,14,1,Si
+200,Uniformes,Littmann,359.01,35,Mujer,Asistente,6,5,No
+201,Uniformes,Dickies,572.53,23,Hombre,Medico,8,4,No
+202,Equipos Medicos,Dickies,460.85,35,Mujer,Medico,14,5,No
+203,Uniformes,Littmann,316.14,36,Hombre,Enfermero,4,4,No
+204,Equipos Medicos,Littmann,700.29,39,Hombre,Enfermero,9,3,Si
+205,Equipos Medicos,Dickies,595.61,22,Hombre,Asistente,5,4,No
+206,Suministros,Littmann,591.59,49,Mujer,Estudiante,5,3,No
+207,Equipos Medicos,Dickies,661.29,41,Hombre,Asistente,13,1,Si
+208,Suministros,Dickies,514.83,26,Mujer,Asistente,4,4,No
+209,Uniformes,Greys Anatomy,657.53,44,Mujer,Asistente,13,5,Si
+210,Uniformes,Cherokee,499.05,20,Hombre,Asistente,10,3,Si
+211,Uniformes,Dickies,283.59,45,Hombre,Medico,8,5,Si
+212,Uniformes,Medline,452.62,27,Hombre,Estudiante,3,2,No
+213,Suministros,Cherokee,498.73,36,Mujer,Medico,14,3,Si
+214,Uniformes,Cherokee,610.1,20,Hombre,Estudiante,3,4,Si
+215,Equipos Medicos,Cherokee,303.29,46,Mujer,Enfermero,9,3,Si
+216,Equipos Medicos,Greys Anatomy,320.01,46,Mujer,Asistente,10,5,No
+217,Equipos Medicos,Dickies,381.84,39,Hombre,Medico,7,1,No
+218,Suministros,Greys Anatomy,383.25,48,Hombre,Estudiante,14,3,No
+219,Uniformes,Dickies,616.09,32,Hombre,Enfermero,13,4,No
+220,Uniformes,Greys Anatomy,375.37,18,Hombre,Enfermero,7,2,No
+221,Uniformes,Greys Anatomy,566.55,24,Hombre,Asistente,6,1,No
+222,Suministros,Medline,497.14,29,Hombre,Estudiante,8,2,No
+223,Equipos Medicos,Greys Anatomy,536.65,34,Mujer,Medico,8,3,Si
+224,Equipos Medicos,Littmann,669.05,47,Mujer,Asistente,5,5,Si
+225,Uniformes,Medline,452.19,38,Mujer,Medico,11,5,Si
+226,Equipos Medicos,Greys Anatomy,635.46,48,Hombre,Enfermero,14,4,Si
+227,Equipos Medicos,Cherokee,461.02,43,Mujer,Medico,13,5,No
+228,Suministros,Littmann,426.94,46,Mujer,Medico,9,1,Si
+229,Suministros,Littmann,729.31,41,Mujer,Asistente,3,5,Si
+230,Suministros,Littmann,342.19,37,Mujer,Medico,9,4,Si
+231,Suministros,Medline,295.17,22,Mujer,Asistente,7,3,Si
+232,Uniformes,Greys Anatomy,635.49,21,Hombre,Enfermero,7,3,No
+233,Suministros,Greys Anatomy,284.12,45,Hombre,Asistente,4,5,No
+234,Equipos Medicos,Cherokee,668.54,29,Mujer,Asistente,6,2,No
+235,Uniformes,Cherokee,468.6,47,Mujer,Estudiante,14,3,Si
+236,Equipos Medicos,Littmann,707.76,37,Mujer,Medico,8,5,No
+237,Equipos Medicos,Cherokee,610.77,45,Hombre,Enfermero,12,4,Si
+238,Equipos Medicos,Medline,555.2,41,Hombre,Asistente,13,5,No
+239,Suministros,Greys Anatomy,724.65,35,Mujer,Enfermero,9,3,No
+240,Suministros,Littmann,448.32,34,Hombre,Estudiante,13,4,No
+241,Uniformes,Cherokee,727.04,36,Hombre,Medico,7,5,No
+242,Uniformes,Medline,317.5,49,Mujer,Asistente,11,1,No
+243,Suministros,Medline,491.88,26,Hombre,Medico,5,4,Si
+244,Equipos Medicos,Cherokee,384.96,21,Hombre,Estudiante,3,1,No
+245,Uniformes,Greys Anatomy,519.92,43,Mujer,Estudiante,6,2,Si
+246,Suministros,Cherokee,331.01,38,Hombre,Enfermero,11,4,Si
+247,Suministros,Littmann,670.76,19,Hombre,Asistente,6,1,Si
+248,Suministros,Cherokee,673.2,49,Mujer,Enfermero,4,3,Si
+249,Equipos Medicos,Medline,727.62,21,Hombre,Estudiante,12,3,Si
+250,Suministros,Cherokee,327.34,19,Hombre,Medico,7,2,No
+251,Suministros,Greys Anatomy,561.67,32,Mujer,Enfermero,5,4,No
+252,Suministros,Dickies,487.12,19,Mujer,Enfermero,14,4,No
+253,Suministros,Cherokee,422.19,21,Mujer,Medico,11,4,No
+254,Uniformes,Greys Anatomy,425.77,23,Hombre,Enfermero,6,2,Si
+255,Uniformes,Greys Anatomy,456.4,24,Mujer,Medico,8,4,No
+256,Suministros,Medline,602.46,27,Hombre,Asistente,4,3,No
+257,Equipos Medicos,Greys Anatomy,549.14,36,Mujer,Medico,8,1,Si
+258,Uniformes,Greys Anatomy,479.84,36,Hombre,Asistente,5,3,Si
+259,Suministros,Greys Anatomy,287.97,43,Mujer,Medico,14,3,No
+260,Uniformes,Greys Anatomy,288.88,39,Mujer,Estudiante,14,1,No
+261,Uniformes,Littmann,251.17,46,Mujer,Estudiante,11,3,Si
+262,Equipos Medicos,Littmann,733.85,29,Mujer,Asistente,13,2,No
+263,Suministros,Medline,252.63,20,Hombre,Asistente,4,1,No
+264,Suministros,Cherokee,301.55,30,Mujer,Estudiante,14,3,No
+265,Equipos Medicos,Greys Anatomy,407.3,35,Mujer,Asistente,14,5,No
+266,Equipos Medicos,Cherokee,653.72,25,Hombre,Medico,11,3,Si
+267,Suministros,Cherokee,731.05,38,Mujer,Medico,7,2,Si
+268,Suministros,Medline,645.01,32,Hombre,Estudiante,10,4,Si
+269,Equipos Medicos,Greys Anatomy,595.28,18,Mujer,Enfermero,4,3,No
+270,Uniformes,Greys Anatomy,510.65,20,Mujer,Medico,8,4,No
+271,Uniformes,Dickies,293.35,43,Mujer,Asistente,5,5,No
+272,Equipos Medicos,Cherokee,729.09,25,Hombre,Enfermero,14,3,No
+273,Uniformes,Cherokee,629.2,21,Mujer,Enfermero,14,1,No
+274,Equipos Medicos,Littmann,569.47,33,Mujer,Medico,12,4,Si
+275,Uniformes,Dickies,629.52,47,Mujer,Medico,7,5,No
+276,Uniformes,Littmann,612.05,40,Hombre,Enfermero,14,1,No
+277,Suministros,Littmann,568.62,27,Hombre,Enfermero,10,1,Si
+278,Suministros,Littmann,740.29,29,Mujer,Estudiante,12,1,No
+279,Uniformes,Medline,701.68,31,Hombre,Asistente,3,1,Si
+280,Uniformes,Medline,573.33,31,Mujer,Estudiante,7,3,Si
+281,Suministros,Littmann,596.59,19,Mujer,Medico,5,3,Si
+282,Suministros,Dickies,275.8,40,Mujer,Estudiante,6,3,Si
+283,Suministros,Cherokee,584.96,22,Mujer,Estudiante,4,5,Si
+284,Equipos Medicos,Dickies,272.08,22,Mujer,Estudiante,11,5,No
+285,Uniformes,Greys Anatomy,544.13,23,Mujer,Estudiante,5,5,Si
+286,Suministros,Medline,749.68,30,Mujer,Asistente,4,2,Si
+287,Uniformes,Cherokee,527.9,26,Hombre,Asistente,12,5,No
+288,Equipos Medicos,Cherokee,486.61,47,Hombre,Enfermero,13,3,No
+289,Equipos Medicos,Greys Anatomy,406.43,39,Hombre,Medico,11,3,Si
+290,Suministros,Greys Anatomy,310.26,45,Hombre,Estudiante,9,2,No
+291,Equipos Medicos,Littmann,615.51,46,Hombre,Enfermero,8,2,No
+292,Uniformes,Medline,346.3,32,Hombre,Enfermero,3,5,Si
+293,Suministros,Medline,307.64,31,Hombre,Enfermero,7,4,Si
+294,Uniformes,Dickies,460.88,41,Mujer,Asistente,14,2,No
+295,Uniformes,Littmann,647.67,24,Mujer,Estudiante,13,1,Si
+296,Equipos Medicos,Littmann,622.53,42,Mujer,Estudiante,13,3,Si
+297,Equipos Medicos,Littmann,277.44,37,Mujer,Medico,5,1,No
+298,Equipos Medicos,Littmann,477.57,19,Hombre,Estudiante,3,3,Si
+299,Equipos Medicos,Medline,511.22,24,Hombre,Estudiante,6,3,Si
+300,Equipos Medicos,Medline,572.27,23,Mujer,Enfermero,4,2,Si
+301,Suministros,Littmann,575.08,34,Mujer,Medico,4,2,Si
+302,Uniformes,Dickies,432.35,44,Hombre,Estudiante,5,1,Si
+303,Uniformes,Cherokee,530.34,42,Mujer,Asistente,10,3,No
+304,Uniformes,Cherokee,490.53,42,Mujer,Estudiante,10,1,No
+305,Uniformes,Dickies,692.5,45,Mujer,Enfermero,14,4,Si
+306,Equipos Medicos,Littmann,515.13,19,Mujer,Asistente,9,1,No
+307,Uniformes,Medline,470.52,20,Hombre,Enfermero,8,5,Si
+308,Suministros,Cherokee,452.24,22,Mujer,Estudiante,11,1,Si
+309,Suministros,Greys Anatomy,536.21,22,Mujer,Asistente,6,5,Si
+310,Uniformes,Greys Anatomy,651.99,48,Hombre,Medico,14,5,Si
+311,Uniformes,Dickies,519.2,18,Hombre,Medico,3,5,Si
+312,Suministros,Littmann,580.83,25,Mujer,Asistente,10,4,No
+313,Suministros,Cherokee,618.93,29,Hombre,Asistente,9,1,No
+314,Equipos Medicos,Littmann,510.08,41,Mujer,Enfermero,9,1,Si
+315,Suministros,Cherokee,463.41,21,Mujer,Asistente,5,4,No
+316,Equipos Medicos,Dickies,688.33,30,Hombre,Enfermero,6,3,Si
+317,Equipos Medicos,Dickies,458.75,40,Mujer,Estudiante,12,2,No
+318,Equipos Medicos,Greys Anatomy,480.97,32,Mujer,Enfermero,11,1,Si
+319,Equipos Medicos,Littmann,745.17,48,Mujer,Asistente,8,2,No
+320,Equipos Medicos,Greys Anatomy,250.12,28,Mujer,Asistente,7,4,Si
+321,Uniformes,Littmann,342.74,27,Hombre,Estudiante,5,3,Si
+322,Suministros,Greys Anatomy,441.98,20,Hombre,Asistente,11,3,No
+323,Equipos Medicos,Medline,716.29,39,Mujer,Asistente,7,3,No
+324,Suministros,Medline,285.01,31,Hombre,Medico,7,4,Si
+325,Suministros,Medline,254.74,33,Mujer,Medico,6,5,No
+326,Equipos Medicos,Medline,276.34,27,Mujer,Estudiante,6,5,Si
+327,Uniformes,Cherokee,294.27,46,Mujer,Enfermero,14,2,No
+328,Equipos Medicos,Medline,268.8,27,Mujer,Medico,3,5,No
+329,Uniformes,Dickies,489.89,29,Mujer,Enfermero,9,5,Si
+330,Suministros,Dickies,540.38,47,Hombre,Asistente,11,3,No
+331,Uniformes,Cherokee,385.84,26,Mujer,Medico,5,3,No
+332,Uniformes,Medline,449.14,18,Hombre,Estudiante,14,2,Si
+333,Uniformes,Medline,295.85,22,Hombre,Estudiante,4,1,No
+334,Suministros,Medline,418.19,37,Mujer,Estudiante,5,2,Si
+335,Suministros,Greys Anatomy,511.26,25,Mujer,Medico,3,2,Si
+336,Uniformes,Littmann,616.14,28,Mujer,Enfermero,8,4,Si
+337,Uniformes,Greys Anatomy,251.67,29,Mujer,Asistente,13,4,Si
+338,Equipos Medicos,Littmann,483.66,18,Mujer,Enfermero,13,2,Si
+339,Uniformes,Medline,398.5,42,Hombre,Enfermero,9,2,No
+340,Equipos Medicos,Medline,676.41,49,Mujer,Asistente,13,2,Si
+341,Uniformes,Greys Anatomy,607.78,39,Mujer,Asistente,13,5,Si
+342,Equipos Medicos,Greys Anatomy,544.55,37,Hombre,Medico,4,4,No
+343,Suministros,Littmann,388.63,45,Hombre,Medico,10,2,No
+344,Uniformes,Dickies,705.17,42,Mujer,Medico,8,3,No
+345,Uniformes,Littmann,272.55,28,Hombre,Medico,6,3,Si
+346,Uniformes,Greys Anatomy,304.73,22,Mujer,Medico,7,5,Si
+347,Uniformes,Greys Anatomy,445.82,32,Hombre,Asistente,10,5,Si
+348,Equipos Medicos,Cherokee,312.22,22,Hombre,Enfermero,5,1,No
+349,Uniformes,Greys Anatomy,728.21,29,Mujer,Medico,5,1,Si
+350,Suministros,Cherokee,648.99,22,Hombre,Medico,13,1,No
+351,Suministros,Dickies,379.49,34,Hombre,Enfermero,6,5,Si
+352,Uniformes,Littmann,544.28,34,Hombre,Medico,3,5,No
+353,Suministros,Littmann,741.17,41,Hombre,Enfermero,11,5,Si
+354,Uniformes,Cherokee,692.1,29,Hombre,Enfermero,10,3,Si
+355,Uniformes,Littmann,550.4,41,Hombre,Asistente,10,5,Si
+356,Suministros,Greys Anatomy,701.86,45,Mujer,Estudiante,12,3,No
+357,Uniformes,Medline,744.59,32,Mujer,Asistente,8,1,No
+358,Suministros,Cherokee,621.68,32,Hombre,Estudiante,9,1,Si
+359,Equipos Medicos,Littmann,282.49,23,Mujer,Estudiante,8,1,Si
+360,Uniformes,Cherokee,450.79,29,Mujer,Estudiante,11,2,Si
+361,Equipos Medicos,Cherokee,668.91,44,Mujer,Medico,5,2,No
+362,Suministros,Medline,365.28,46,Hombre,Asistente,5,4,Si
+363,Equipos Medicos,Greys Anatomy,665.32,37,Mujer,Estudiante,5,4,Si
+364,Equipos Medicos,Cherokee,310.17,35,Hombre,Enfermero,12,4,Si
+365,Suministros,Littmann,273.47,31,Mujer,Medico,5,2,Si
+366,Equipos Medicos,Dickies,442.05,19,Hombre,Asistente,11,2,No
+367,Equipos Medicos,Cherokee,268.37,26,Hombre,Estudiante,14,4,No
+368,Suministros,Cherokee,728.64,48,Mujer,Enfermero,6,4,Si
+369,Equipos Medicos,Medline,663.1,22,Mujer,Asistente,9,5,Si
+370,Suministros,Greys Anatomy,650.38,37,Hombre,Asistente,11,4,No
+371,Equipos Medicos,Dickies,564.89,43,Mujer,Medico,13,5,No
+372,Suministros,Littmann,358.16,46,Mujer,Asistente,14,3,Si
+373,Suministros,Dickies,509.13,18,Mujer,Medico,9,2,No
+374,Equipos Medicos,Littmann,548.64,40,Hombre,Estudiante,11,4,No
+375,Equipos Medicos,Greys Anatomy,512.52,20,Hombre,Medico,14,2,Si
+376,Equipos Medicos,Littmann,380.12,23,Mujer,Enfermero,5,2,No
+377,Uniformes,Medline,507.62,22,Mujer,Medico,6,2,No
+378,Uniformes,Medline,495.59,38,Mujer,Enfermero,10,3,Si
+379,Uniformes,Medline,748.17,44,Hombre,Medico,8,1,Si
+380,Suministros,Medline,698.72,22,Hombre,Asistente,7,4,No
+381,Equipos Medicos,Dickies,481.69,18,Mujer,Estudiante,6,1,Si
+382,Suministros,Greys Anatomy,561.47,34,Mujer,Enfermero,10,1,No
+383,Uniformes,Littmann,623.94,36,Mujer,Medico,3,1,Si
+384,Equipos Medicos,Littmann,267.43,31,Mujer,Medico,11,2,No
+385,Suministros,Medline,697.46,29,Mujer,Medico,3,5,Si
+386,Equipos Medicos,Medline,680.06,27,Mujer,Asistente,10,2,No
+387,Suministros,Cherokee,478.72,37,Hombre,Asistente,6,2,No
+388,Equipos Medicos,Greys Anatomy,445.58,38,Mujer,Enfermero,11,1,No
+389,Uniformes,Dickies,386.48,35,Hombre,Enfermero,13,2,Si
+390,Uniformes,Littmann,488.34,41,Mujer,Asistente,7,1,Si
+391,Equipos Medicos,Cherokee,272.19,44,Mujer,Enfermero,5,5,No
+392,Suministros,Cherokee,676.1,28,Hombre,Estudiante,11,4,No
+393,Uniformes,Littmann,267.71,47,Hombre,Estudiante,13,1,Si
+394,Uniformes,Dickies,414.53,19,Hombre,Asistente,11,5,Si
+395,Uniformes,Cherokee,715.79,42,Hombre,Enfermero,6,4,Si
+396,Equipos Medicos,Cherokee,617.61,35,Mujer,Medico,13,3,Si
+397,Equipos Medicos,Greys Anatomy,390.7,46,Hombre,Estudiante,6,1,Si
+398,Suministros,Dickies,376.32,42,Mujer,Asistente,14,1,Si
+399,Suministros,Cherokee,252.54,24,Hombre,Enfermero,10,3,No
+400,Suministros,Dickies,597.86,48,Mujer,Asistente,4,3,Si
+401,Equipos Medicos,Littmann,274.39,41,Mujer,Medico,11,1,No
+402,Equipos Medicos,Medline,516.3,32,Mujer,Estudiante,8,3,Si
+403,Suministros,Cherokee,731.06,28,Mujer,Asistente,11,2,Si
+404,Suministros,Greys Anatomy,304.73,35,Mujer,Asistente,10,4,No
+405,Equipos Medicos,Littmann,697.24,40,Mujer,Asistente,9,4,No
+406,Suministros,Dickies,745.74,29,Hombre,Medico,3,4,Si
+407,Uniformes,Littmann,280.76,23,Mujer,Asistente,14,2,No
+408,Equipos Medicos,Cherokee,691.45,37,Hombre,Medico,5,3,No
+409,Suministros,Dickies,508.04,40,Hombre,Medico,13,5,No
+410,Equipos Medicos,Medline,703.26,49,Mujer,Medico,4,3,No
+411,Uniformes,Littmann,535.66,47,Hombre,Estudiante,7,1,Si
+412,Equipos Medicos,Cherokee,581.06,30,Mujer,Estudiante,7,4,No
+413,Equipos Medicos,Greys Anatomy,521.89,37,Hombre,Asistente,7,3,Si
+414,Equipos Medicos,Dickies,682.25,33,Mujer,Asistente,6,5,Si
+415,Equipos Medicos,Littmann,616.95,35,Hombre,Estudiante,7,1,Si
+416,Uniformes,Littmann,510.63,27,Mujer,Enfermero,5,2,Si
+417,Equipos Medicos,Medline,684.08,45,Mujer,Estudiante,14,2,No
+418,Equipos Medicos,Medline,372.64,40,Mujer,Medico,3,5,No
+419,Suministros,Greys Anatomy,328.67,25,Mujer,Estudiante,7,1,Si
+420,Equipos Medicos,Greys Anatomy,330.2,35,Hombre,Medico,11,4,Si
+421,Suministros,Cherokee,417,38,Mujer,Asistente,11,3,Si
+422,Uniformes,Cherokee,369.35,18,Hombre,Enfermero,6,1,Si
+423,Uniformes,Greys Anatomy,715.05,40,Hombre,Asistente,5,2,No
+424,Uniformes,Greys Anatomy,302.92,25,Hombre,Medico,3,5,Si
+425,Uniformes,Dickies,599.5,46,Mujer,Medico,4,5,No
+426,Suministros,Medline,344.61,49,Hombre,Medico,10,3,Si
+427,Equipos Medicos,Cherokee,690.82,23,Hombre,Enfermero,3,5,Si
+428,Uniformes,Medline,730.66,22,Hombre,Estudiante,10,5,Si
+429,Equipos Medicos,Medline,482.74,32,Mujer,Asistente,9,1,Si
+430,Suministros,Greys Anatomy,689.54,39,Mujer,Asistente,10,4,No
+431,Suministros,Dickies,252.57,32,Hombre,Estudiante,14,3,No
+432,Suministros,Littmann,659.97,19,Mujer,Asistente,8,1,No
+433,Uniformes,Dickies,364.31,18,Mujer,Enfermero,14,4,Si
+434,Equipos Medicos,Dickies,704.35,40,Hombre,Asistente,11,1,Si
+435,Equipos Medicos,Medline,250.56,40,Hombre,Medico,5,1,No
+436,Equipos Medicos,Dickies,528.09,43,Mujer,Estudiante,12,5,No
+437,Suministros,Cherokee,628.32,28,Hombre,Enfermero,6,4,Si
+438,Uniformes,Medline,379.34,27,Mujer,Estudiante,8,3,Si
+439,Suministros,Cherokee,346.57,47,Mujer,Enfermero,10,3,No
+440,Suministros,Littmann,292.05,35,Mujer,Medico,7,4,Si
+441,Equipos Medicos,Medline,413.22,35,Mujer,Estudiante,5,5,Si
+442,Suministros,Littmann,529.92,34,Mujer,Asistente,8,2,No
+443,Equipos Medicos,Medline,307.92,43,Mujer,Enfermero,6,1,Si
+444,Uniformes,Greys Anatomy,438.35,25,Hombre,Estudiante,11,5,No
+445,Equipos Medicos,Dickies,254.54,32,Hombre,Asistente,5,4,Si
+446,Uniformes,Greys Anatomy,659.34,25,Mujer,Estudiante,6,1,No
+447,Equipos Medicos,Littmann,314.22,34,Mujer,Estudiante,9,3,Si
+448,Suministros,Dickies,391.67,29,Mujer,Estudiante,9,2,No
+449,Suministros,Medline,259.21,44,Hombre,Enfermero,14,3,No
+450,Uniformes,Dickies,466.12,25,Mujer,Asistente,14,4,No
+451,Uniformes,Cherokee,670.06,42,Hombre,Medico,6,1,No
+452,Uniformes,Dickies,446.08,31,Mujer,Enfermero,8,4,Si
+453,Equipos Medicos,Cherokee,339.75,21,Mujer,Enfermero,14,1,Si
+454,Equipos Medicos,Dickies,626.85,18,Hombre,Enfermero,5,5,No
+455,Uniformes,Cherokee,644.4,18,Hombre,Medico,8,2,Si
+456,Suministros,Littmann,336.88,36,Mujer,Asistente,14,5,Si
+457,Equipos Medicos,Greys Anatomy,635.43,48,Mujer,Asistente,4,5,Si
+458,Equipos Medicos,Medline,723.65,33,Mujer,Asistente,10,4,Si
+459,Equipos Medicos,Dickies,333.19,31,Hombre,Estudiante,4,2,Si
+460,Uniformes,Greys Anatomy,635.49,38,Hombre,Estudiante,13,1,No
+461,Uniformes,Medline,604.29,33,Hombre,Estudiante,9,1,No
+462,Uniformes,Medline,486.79,22,Hombre,Medico,11,3,No
+463,Uniformes,Cherokee,278.96,26,Hombre,Estudiante,3,1,No
+464,Uniformes,Littmann,287.35,43,Hombre,Medico,10,4,Si
+465,Suministros,Littmann,676.21,47,Mujer,Asistente,9,5,Si
+466,Suministros,Greys Anatomy,745.07,45,Mujer,Estudiante,8,5,No
+467,Uniformes,Littmann,588.03,19,Hombre,Estudiante,8,5,Si
+468,Equipos Medicos,Dickies,472.98,35,Mujer,Enfermero,8,2,Si
+469,Uniformes,Littmann,573.79,49,Mujer,Medico,11,1,No
+470,Suministros,Greys Anatomy,547.2,23,Hombre,Asistente,4,4,Si
+471,Suministros,Littmann,441.81,48,Mujer,Enfermero,3,2,No
+472,Equipos Medicos,Dickies,282.81,26,Hombre,Enfermero,14,3,No
+473,Suministros,Cherokee,660.76,18,Hombre,Asistente,8,4,Si
+474,Uniformes,Greys Anatomy,435.92,26,Mujer,Enfermero,12,4,Si
+475,Equipos Medicos,Cherokee,659.39,42,Hombre,Medico,13,4,No
+476,Uniformes,Cherokee,376.25,33,Hombre,Medico,10,5,No
+477,Uniformes,Cherokee,250.51,30,Hombre,Estudiante,5,4,Si
+478,Equipos Medicos,Medline,329.47,26,Hombre,Enfermero,14,1,No
+479,Uniformes,Medline,484.27,38,Hombre,Estudiante,12,4,No
+480,Suministros,Cherokee,722.15,30,Hombre,Enfermero,3,5,No
+481,Uniformes,Greys Anatomy,301.1,48,Hombre,Medico,11,4,Si
+482,Equipos Medicos,Dickies,677.1,26,Hombre,Medico,3,3,No
+483,Equipos Medicos,Dickies,513.51,28,Mujer,Medico,5,3,Si
+484,Equipos Medicos,Littmann,662.96,21,Mujer,Enfermero,10,5,No
+485,Uniformes,Greys Anatomy,399.19,19,Mujer,Medico,5,1,Si
+486,Equipos Medicos,Medline,669.97,46,Hombre,Enfermero,6,1,No
+487,Equipos Medicos,Cherokee,636.41,23,Hombre,Estudiante,10,2,Si
+488,Uniformes,Littmann,365.03,31,Mujer,Enfermero,3,5,Si
+489,Suministros,Dickies,315.67,21,Mujer,Estudiante,8,4,Si
+490,Uniformes,Medline,684.03,23,Mujer,Enfermero,3,5,No
+491,Equipos Medicos,Medline,731.62,36,Hombre,Estudiante,3,2,No
+492,Equipos Medicos,Cherokee,265.65,23,Mujer,Medico,10,5,No
+493,Uniformes,Dickies,615.64,19,Mujer,Estudiante,13,5,Si
+494,Suministros,Greys Anatomy,704.76,35,Hombre,Medico,6,2,No
+495,Equipos Medicos,Medline,678.68,30,Mujer,Medico,14,1,Si
+496,Equipos Medicos,Cherokee,732.26,26,Hombre,Estudiante,3,4,No
+497,Equipos Medicos,Greys Anatomy,630.05,40,Hombre,Enfermero,12,2,Si
+498,Uniformes,Dickies,471.15,36,Hombre,Enfermero,9,3,Si
+499,Equipos Medicos,Medline,405.98,30,Mujer,Asistente,7,1,Si
+500,Suministros,Greys Anatomy,410.37,28,Mujer,Enfermero,7,3,No
