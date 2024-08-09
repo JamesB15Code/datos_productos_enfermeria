@@ -1,0 +1,262 @@
+nombre,categoria,precio,descuento,sexo,stock,estado
+Chaleco,Chalecos,420,,Mujer,30,Activo
+Filipina Cindy,Filipinas,420,4.0,Mujer,30,Activo
+Filipina Susana,Filipinas,270,0.0,Mujer,20,Activo
+Pantalon,Pantalones,500,2.0,Mujer,3,Activo
+Filipina Luisa,Filipinas,475,,Mujer,15,Activo
+Pantalon,Filipinas,490,,Hombre,60,Inactivo
+Filipina Luisa,Chalecos,420,0.0,Hombre,20,Inactivo
+Filipina Susana,Filipinas,420,5.0,Mujer,60,Activo
+Filipina Cindy,Filipinas,475,,Mujer,30,Inactivo
+Filipina Susana,Pantalones,475,2.0,Hombre,60,Inactivo
+Filipina Luisa,Filipinas,475,5.0,Mujer,15,Activo
+Filipina Susana,Pantalones,450,5.0,Hombre,15,Inactivo
+Filipina Cindy,Filipinas,420,5.0,Hombre,20,Activo
+Chaleco,Chalecos,420,2.0,Hombre,15,Inactivo
+Filipina Cindy,Pantalones,475,0.0,Hombre,30,Activo
+Filipina Susana,Pantalones,475,2.0,Mujer,15,Inactivo
+Filipina Cindy,Filipinas,475,,Mujer,60,Activo
+Pantalon,Pantalones,380,,Hombre,15,Activo
+Filipina Cindy,Filipinas,420,0.0,Mujer,50,Inactivo
+Filipina Susana,Chalecos,490,4.0,Mujer,3,Activo
+Filipina Luisa,Pantalones,500,,Hombre,3,Activo
+Pantalon,Filipinas,380,,Hombre,10,Activo
+Filipina Luisa,Chalecos,500,4.0,Hombre,60,Inactivo
+Filipina Luisa,Chalecos,380,,Hombre,50,Activo
+Chaleco,Chalecos,380,,Hombre,30,Inactivo
+Filipina Cindy,Filipinas,500,0.0,Hombre,50,Inactivo
+Filipina Cindy,Pantalones,380,5.0,Mujer,3,Inactivo
+Pantalon,Chalecos,420,5.0,Mujer,60,Activo
+Pantalon,Filipinas,270,,Hombre,15,Activo
+Chaleco,Filipinas,420,5.0,Hombre,15,Inactivo
+Chaleco,Pantalones,490,5.0,Mujer,50,Inactivo
+Filipina Luisa,Chalecos,475,0.0,Hombre,10,Inactivo
+Chaleco,Chalecos,270,,Hombre,50,Inactivo
+Filipina Cindy,Chalecos,500,0.0,Hombre,15,Inactivo
+Filipina Susana,Pantalones,500,0.0,Mujer,30,Activo
+Filipina Cindy,Chalecos,450,0.0,Mujer,50,Inactivo
+Filipina Susana,Pantalones,450,4.0,Mujer,25,Inactivo
+Filipina Luisa,Filipinas,420,2.0,Hombre,50,Activo
+Filipina Cindy,Chalecos,380,0.0,Mujer,20,Activo
+Chaleco,Pantalones,380,5.0,Mujer,20,Inactivo
+Filipina Cindy,Pantalones,475,,Mujer,30,Activo
+Filipina Luisa,Pantalones,475,0.0,Mujer,30,Inactivo
+Filipina Susana,Filipinas,450,,Hombre,20,Activo
+Filipina Luisa,Filipinas,500,5.0,Hombre,10,Inactivo
+Chaleco,Filipinas,490,2.0,Mujer,15,Activo
+Pantalon,Filipinas,450,4.0,Hombre,3,Inactivo
+Filipina Cindy,Pantalones,450,,Mujer,30,Activo
+Filipina Cindy,Filipinas,270,0.0,Hombre,15,Inactivo
+Chaleco,Pantalones,450,4.0,Mujer,50,Inactivo
+Pantalon,Chalecos,500,,Mujer,3,Inactivo
+Pantalon,Pantalones,380,,Mujer,50,Activo
+Chaleco,Filipinas,500,0.0,Mujer,30,Activo
+Pantalon,Chalecos,380,4.0,Mujer,25,Activo
+Filipina Susana,Chalecos,270,4.0,Hombre,30,Inactivo
+Filipina Luisa,Pantalones,500,,Mujer,50,Inactivo
+Pantalon,Filipinas,490,,Hombre,20,Inactivo
+Filipina Susana,Chalecos,475,,Mujer,20,Inactivo
+Chaleco,Pantalones,490,2.0,Mujer,50,Inactivo
+Filipina Susana,Chalecos,270,,Mujer,10,Inactivo
+Pantalon,Chalecos,380,,Mujer,25,Activo
+Chaleco,Pantalones,500,0.0,Hombre,60,Activo
+Filipina Luisa,Chalecos,490,4.0,Mujer,30,Inactivo
+Filipina Susana,Filipinas,420,,Hombre,50,Activo
+Filipina Susana,Pantalones,420,,Hombre,30,Inactivo
+Pantalon,Pantalones,500,0.0,Mujer,20,Activo
+Filipina Cindy,Chalecos,500,5.0,Hombre,3,Activo
+Filipina Luisa,Pantalones,270,,Mujer,50,Inactivo
+Filipina Luisa,Pantalones,450,5.0,Hombre,60,Activo
+Pantalon,Chalecos,420,,Hombre,10,Inactivo
+Filipina Luisa,Filipinas,270,0.0,Hombre,30,Inactivo
+Filipina Luisa,Filipinas,500,2.0,Hombre,3,Activo
+Filipina Cindy,Pantalones,380,5.0,Mujer,50,Inactivo
+Filipina Susana,Filipinas,500,,Mujer,25,Inactivo
+Filipina Luisa,Filipinas,500,,Hombre,3,Inactivo
+Filipina Luisa,Chalecos,450,2.0,Hombre,60,Activo
+Filipina Cindy,Pantalones,475,0.0,Mujer,15,Inactivo
+Filipina Cindy,Chalecos,450,2.0,Hombre,60,Inactivo
+Chaleco,Pantalones,475,4.0,Mujer,30,Activo
+Pantalon,Pantalones,475,2.0,Hombre,3,Inactivo
+Filipina Cindy,Pantalones,500,,Mujer,60,Inactivo
+Pantalon,Chalecos,490,4.0,Mujer,10,Inactivo
+Pantalon,Chalecos,380,0.0,Hombre,60,Activo
+Filipina Susana,Filipinas,500,,Hombre,30,Inactivo
+Filipina Cindy,Pantalones,490,5.0,Hombre,3,Inactivo
+Filipina Susana,Filipinas,380,5.0,Hombre,50,Inactivo
+Filipina Cindy,Chalecos,475,,Mujer,10,Inactivo
+Filipina Susana,Chalecos,420,,Hombre,25,Inactivo
+Filipina Luisa,Filipinas,475,4.0,Mujer,50,Inactivo
+Filipina Susana,Pantalones,450,,Hombre,30,Inactivo
+Pantalon,Chalecos,270,,Mujer,60,Activo
+Pantalon,Pantalones,490,5.0,Mujer,15,Activo
+Chaleco,Chalecos,500,5.0,Hombre,25,Activo
+Filipina Susana,Filipinas,490,4.0,Hombre,25,Inactivo
+Pantalon,Filipinas,270,5.0,Hombre,20,Activo
+Chaleco,Pantalones,475,2.0,Hombre,25,Inactivo
+Chaleco,Filipinas,490,,Mujer,60,Activo
+Chaleco,Pantalones,420,,Hombre,3,Inactivo
+Filipina Cindy,Pantalones,475,2.0,Mujer,25,Activo
+Filipina Susana,Pantalones,420,2.0,Hombre,15,Activo
+Pantalon,Pantalones,450,2.0,Hombre,3,Inactivo
+Filipina Luisa,Pantalones,450,4.0,Hombre,30,Activo
+Filipina Luisa,Pantalones,500,4.0,Mujer,3,Inactivo
+Filipina Cindy,Filipinas,500,0.0,Hombre,3,Activo
+Pantalon,Pantalones,420,,Mujer,60,Inactivo
+Filipina Luisa,Filipinas,450,,Hombre,60,Inactivo
+Filipina Luisa,Pantalones,475,4.0,Mujer,20,Inactivo
+Filipina Luisa,Chalecos,270,,Hombre,3,Activo
+Filipina Cindy,Chalecos,270,,Mujer,10,Inactivo
+Chaleco,Filipinas,500,,Mujer,30,Activo
+Filipina Susana,Pantalones,420,4.0,Hombre,20,Activo
+Filipina Susana,Filipinas,380,0.0,Hombre,50,Activo
+Pantalon,Filipinas,420,,Hombre,15,Inactivo
+Filipina Susana,Filipinas,490,2.0,Mujer,20,Inactivo
+Filipina Susana,Filipinas,475,5.0,Hombre,20,Inactivo
+Filipina Susana,Chalecos,420,5.0,Mujer,30,Activo
+Filipina Luisa,Filipinas,420,5.0,Mujer,10,Inactivo
+Pantalon,Filipinas,490,,Hombre,60,Activo
+Filipina Cindy,Filipinas,450,,Hombre,3,Inactivo
+Filipina Cindy,Filipinas,500,4.0,Hombre,3,Activo
+Pantalon,Pantalones,380,0.0,Mujer,50,Activo
+Pantalon,Chalecos,270,,Hombre,25,Activo
+Filipina Susana,Chalecos,450,,Hombre,10,Inactivo
+Filipina Susana,Chalecos,490,4.0,Mujer,25,Inactivo
+Filipina Luisa,Pantalones,490,,Mujer,10,Inactivo
+Filipina Luisa,Filipinas,450,5.0,Hombre,10,Activo
+Filipina Susana,Filipinas,450,,Hombre,10,Activo
+Pantalon,Filipinas,380,4.0,Hombre,25,Activo
+Filipina Cindy,Pantalones,475,0.0,Hombre,10,Inactivo
+Filipina Cindy,Filipinas,270,4.0,Mujer,10,Inactivo
+Filipina Luisa,Pantalones,500,4.0,Hombre,20,Inactivo
+Pantalon,Chalecos,380,2.0,Hombre,60,Inactivo
+Pantalon,Chalecos,450,4.0,Mujer,60,Activo
+Filipina Cindy,Chalecos,420,,Mujer,20,Activo
+Filipina Susana,Pantalones,450,2.0,Hombre,3,Inactivo
+Filipina Susana,Filipinas,270,,Hombre,20,Inactivo
+Filipina Susana,Filipinas,450,,Mujer,3,Inactivo
+Filipina Cindy,Pantalones,420,,Mujer,10,Activo
+Filipina Cindy,Pantalones,420,,Mujer,30,Activo
+Filipina Luisa,Filipinas,490,0.0,Mujer,10,Inactivo
+Pantalon,Chalecos,475,,Hombre,10,Inactivo
+Pantalon,Pantalones,475,,Mujer,3,Activo
+Chaleco,Filipinas,475,,Hombre,20,Activo
+Filipina Cindy,Pantalones,450,5.0,Hombre,15,Inactivo
+Filipina Cindy,Chalecos,420,,Hombre,25,Activo
+Filipina Susana,Filipinas,420,4.0,Hombre,50,Activo
+Filipina Luisa,Pantalones,475,0.0,Hombre,30,Inactivo
+Filipina Susana,Chalecos,475,2.0,Hombre,3,Activo
+Filipina Luisa,Filipinas,420,2.0,Hombre,10,Activo
+Chaleco,Chalecos,380,2.0,Mujer,25,Activo
+Pantalon,Filipinas,490,,Hombre,20,Activo
+Filipina Susana,Filipinas,490,4.0,Hombre,10,Inactivo
+Filipina Susana,Filipinas,380,,Hombre,3,Inactivo
+Filipina Luisa,Chalecos,380,,Hombre,15,Inactivo
+Filipina Luisa,Filipinas,450,2.0,Hombre,30,Activo
+Pantalon,Chalecos,380,2.0,Mujer,50,Activo
+Filipina Cindy,Pantalones,380,,Hombre,25,Activo
+Chaleco,Chalecos,270,4.0,Hombre,25,Activo
+Filipina Cindy,Chalecos,380,2.0,Mujer,3,Inactivo
+Pantalon,Filipinas,450,0.0,Hombre,20,Activo
+Pantalon,Pantalones,420,,Mujer,50,Inactivo
+Filipina Cindy,Filipinas,380,5.0,Mujer,15,Inactivo
+Chaleco,Filipinas,380,4.0,Hombre,50,Activo
+Filipina Susana,Filipinas,475,,Mujer,50,Inactivo
+Chaleco,Pantalones,490,,Mujer,20,Inactivo
+Chaleco,Filipinas,420,,Mujer,20,Activo
+Filipina Susana,Filipinas,490,0.0,Hombre,10,Activo
+Chaleco,Chalecos,475,4.0,Mujer,60,Activo
+Chaleco,Filipinas,490,2.0,Hombre,25,Activo
+Pantalon,Filipinas,270,4.0,Mujer,10,Activo
+Pantalon,Chalecos,270,,Mujer,20,Inactivo
+Chaleco,Pantalones,270,0.0,Hombre,30,Activo
+Filipina Susana,Chalecos,475,,Mujer,10,Inactivo
+Pantalon,Chalecos,500,0.0,Hombre,10,Activo
+Filipina Luisa,Filipinas,500,,Hombre,10,Activo
+Filipina Susana,Chalecos,490,,Mujer,3,Inactivo
+Filipina Luisa,Pantalones,490,2.0,Mujer,20,Activo
+Pantalon,Chalecos,420,,Hombre,60,Inactivo
+Filipina Luisa,Pantalones,270,5.0,Hombre,3,Inactivo
+Pantalon,Chalecos,475,5.0,Hombre,20,Inactivo
+Filipina Susana,Filipinas,450,0.0,Mujer,10,Activo
+Filipina Susana,Pantalones,270,,Mujer,50,Activo
+Filipina Susana,Pantalones,420,,Mujer,3,Activo
+Filipina Cindy,Pantalones,490,,Hombre,50,Inactivo
+Chaleco,Filipinas,490,4.0,Mujer,10,Activo
+Filipina Susana,Filipinas,270,5.0,Mujer,3,Activo
+Chaleco,Filipinas,500,4.0,Mujer,50,Activo
+Filipina Cindy,Chalecos,475,4.0,Mujer,60,Inactivo
+Filipina Susana,Filipinas,380,,Hombre,3,Inactivo
+Filipina Cindy,Pantalones,450,0.0,Hombre,3,Activo
+Chaleco,Pantalones,380,5.0,Hombre,60,Inactivo
+Filipina Luisa,Chalecos,450,2.0,Mujer,25,Inactivo
+Chaleco,Pantalones,490,,Mujer,25,Inactivo
+Filipina Luisa,Filipinas,420,4.0,Mujer,15,Activo
+Filipina Cindy,Filipinas,270,0.0,Hombre,10,Inactivo
+Filipina Cindy,Pantalones,450,0.0,Mujer,30,Activo
+Filipina Cindy,Pantalones,450,5.0,Hombre,20,Inactivo
+Pantalon,Chalecos,490,5.0,Mujer,50,Inactivo
+Pantalon,Filipinas,490,2.0,Hombre,15,Inactivo
+Pantalon,Chalecos,270,0.0,Hombre,50,Activo
+Pantalon,Filipinas,380,,Mujer,10,Inactivo
+Pantalon,Filipinas,420,,Mujer,3,Inactivo
+Filipina Luisa,Pantalones,380,4.0,Hombre,60,Inactivo
+Chaleco,Filipinas,450,0.0,Hombre,30,Activo
+Chaleco,Chalecos,500,,Mujer,25,Inactivo
+Chaleco,Pantalones,450,2.0,Mujer,20,Activo
+Pantalon,Pantalones,500,5.0,Mujer,15,Activo
+Pantalon,Pantalones,475,2.0,Hombre,20,Activo
+Filipina Susana,Pantalones,490,,Mujer,60,Activo
+Filipina Luisa,Chalecos,270,5.0,Hombre,3,Inactivo
+Chaleco,Pantalones,380,,Mujer,3,Activo
+Chaleco,Chalecos,490,2.0,Hombre,30,Activo
+Pantalon,Pantalones,450,5.0,Mujer,25,Activo
+Filipina Cindy,Pantalones,420,,Hombre,3,Activo
+Filipina Cindy,Chalecos,450,2.0,Mujer,60,Inactivo
+Pantalon,Filipinas,500,2.0,Hombre,20,Inactivo
+Pantalon,Filipinas,450,,Hombre,25,Inactivo
+Chaleco,Filipinas,490,4.0,Mujer,50,Activo
+Filipina Susana,Pantalones,490,,Hombre,3,Activo
+Filipina Cindy,Filipinas,475,0.0,Mujer,20,Inactivo
+Pantalon,Pantalones,270,,Mujer,60,Activo
+Filipina Susana,Filipinas,500,2.0,Mujer,30,Activo
+Filipina Cindy,Filipinas,270,5.0,Mujer,60,Activo
+Chaleco,Chalecos,270,,Mujer,25,Activo
+Filipina Cindy,Chalecos,450,,Mujer,30,Inactivo
+Chaleco,Pantalones,420,5.0,Hombre,3,Inactivo
+Chaleco,Pantalones,270,,Hombre,30,Activo
+Filipina Luisa,Chalecos,500,,Mujer,50,Activo
+Filipina Susana,Chalecos,500,,Hombre,25,Activo
+Chaleco,Chalecos,475,2.0,Hombre,60,Activo
+Chaleco,Filipinas,380,0.0,Hombre,25,Activo
+Pantalon,Pantalones,500,,Mujer,15,Inactivo
+Filipina Cindy,Pantalones,450,4.0,Hombre,25,Inactivo
+Filipina Luisa,Pantalones,500,,Hombre,15,Inactivo
+Pantalon,Chalecos,380,5.0,Mujer,10,Activo
+Filipina Susana,Pantalones,270,5.0,Hombre,25,Activo
+Pantalon,Pantalones,380,4.0,Mujer,10,Inactivo
+Pantalon,Pantalones,270,2.0,Hombre,3,Inactivo
+Filipina Cindy,Pantalones,380,,Mujer,30,Activo
+Filipina Susana,Pantalones,420,,Hombre,50,Inactivo
+Filipina Susana,Filipinas,380,0.0,Mujer,20,Activo
+Chaleco,Pantalones,500,,Mujer,50,Activo
+Filipina Susana,Chalecos,380,4.0,Hombre,30,Activo
+Filipina Luisa,Chalecos,475,4.0,Mujer,25,Inactivo
+Pantalon,Filipinas,420,0.0,Mujer,25,Inactivo
+Chaleco,Pantalones,420,5.0,Mujer,50,Inactivo
+Pantalon,Filipinas,490,4.0,Hombre,25,Activo
+Filipina Cindy,Filipinas,380,,Hombre,3,Activo
+Chaleco,Chalecos,270,4.0,Mujer,50,Activo
+Filipina Susana,Filipinas,475,,Mujer,50,Activo
+Filipina Luisa,Chalecos,475,4.0,Mujer,60,Inactivo
+Filipina Cindy,Filipinas,380,,Hombre,3,Inactivo
+Filipina Susana,Filipinas,475,,Mujer,50,Activo
+Chaleco,Chalecos,420,5.0,Hombre,25,Inactivo
+Filipina Susana,Pantalones,490,4.0,Hombre,60,Inactivo
+Pantalon,Pantalones,490,2.0,Mujer,25,Activo
+Chaleco,Pantalones,500,2.0,Hombre,10,Activo
+Pantalon,Chalecos,380,,Hombre,15,Inactivo
+Pantalon,Filipinas,475,,Mujer,10,Inactivo
+Chaleco,Filipinas,420,,Mujer,3,Activo
+Filipina Susana,Pantalones,270,5.0,Hombre,15,Activo
+Filipina Cindy,Chalecos,380,,Hombre,15,Inactivo
